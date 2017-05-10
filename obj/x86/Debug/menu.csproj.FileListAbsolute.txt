@@ -1,0 +1,6 @@
+C:\Users\Asus\AppData\Local\Temporary Projects\menu\bin\Debug\menu.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\menu\bin\Debug\menu.pdb
+C:\Users\Asus\AppData\Local\Temporary Projects\menu\obj\x86\Debug\menu.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\menu\obj\x86\Debug\menu.pdb
+C:\Users\Asus\Downloads\menu\menu\obj\x86\Debug\menu.exe
+C:\Users\Asus\Downloads\menu\menu\obj\x86\Debug\menu.pdb
